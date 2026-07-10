@@ -3,7 +3,7 @@
  * Modified by: Usman (see inline comments)
  * ========================================== */
 // [Modified by Usman]: Configured API_URL to match local Flask server port
-const API_URL = "http://127.0.0.1:5000/api";
+const API_URL = "http://136.66.121.44:5000/api";
 
 let editId = "";
 
