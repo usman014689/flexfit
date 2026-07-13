@@ -116,7 +116,8 @@ def search_member():
     text = request.args.get("q", "")
     results = database.search_members(text)
     return jsonify(results)
-
+    
+# Modified code get help from GPT and use boiler code
 @app.route("/api/members/<member_id>", methods=["PUT"])
 def update_member(member_id):
     data = request.get_json()
