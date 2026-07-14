@@ -70,7 +70,13 @@ python -m pytest test_app.py
 
 The CSV export functionality and CORS configuration were implemented with assistance from the following ChatGPT conversation:
 https://chatgpt.com/c/6a549252-a6e4-83ee-9de0-3f24bb31d35f
+# Project Deployment
 
+## Cloud Infrastructure & Live Site
+
+- **Google Cloud Console (VM Instances):** [View Instances](https://console.cloud.google.com/compute/instances?authuser=1&facet_url=https:%2F%2Fcloud.google.com&project=project-c3dae712-2b9e-4569-b9a)
+- **Live Site:** [http://136.66.121.44/](http://136.66.121.44/)
+- 
 ## AI Usage & Usman Contributions
 
 Claude AI was used to generate the basic boilerplate code and basic CRUD structure for this project.
