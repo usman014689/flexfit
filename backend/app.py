@@ -61,9 +61,10 @@ def view_members():
     return jsonify(all_members)
 
 @app.route("/api/members/export", methods=["GET"])
-# [Modified by Usman]: Implemented the CSV export logic below.
+# [Modified by Me]: Implemented the CSV export logic below.
 # I researched how to use Python's io and csv modules to dynamically 
 # generate a CSV file in memory and send it as a downloadable response.
+# And i got help from one youtube video also to understand the logic 
 def export_members():
     all_members = database.get_all_members()
 
