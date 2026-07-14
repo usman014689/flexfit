@@ -79,7 +79,7 @@ https://chatgpt.com/c/6a549252-a6e4-83ee-9de0-3f24bb31d35f
 - 
 ## AI Usage & My Contributions
 
-Claude AI was used to generate the basic boilerplate code and basic CRUD structure for this project.
+Claude AI was used to generate the basic boilerplate code and basic CRUD structure for this project and i modified the code according to my project and requirements.
 
 However, I personally wrote and modified several core logic components, including:
 - The comprehensive form data validation logic (`app.py`)
