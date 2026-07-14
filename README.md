@@ -1,5 +1,11 @@
 # FlexFit Membership System
+Module: B9IS123
+Author: Mohammad Usman Tahir
+Module Title: Programming for Information Systems
+Module Code: B9IS123
+Module Lecturer(s): Paul Laird
 
+# Introduction
 This is an Information System for managing gym memberships, built using an API architecture.
 
 ## Architecture
