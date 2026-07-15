@@ -55,9 +55,10 @@ https://claude.ai/share/7ebda95d-13a5-4a4a-a421-daa0a51af476
 
 ## AI Usage
 
-Claude AI was used to help generate an initial project template and basic CRUD examples. These were then reviewed, modified and extended to meet the assignment requirements.
+Claude AI was used to help generate a project template and basic CRUD . These were then reviewed, modified and extended to meet the assignment requirements.
+i also stuck on mongodb connection i also get information and help from claude AI and by the help of youtube video i sorted this issue and it took 4 hours to resolve and now i am familiar with this i used the mongodb and python first time.
 
-The following parts of the project were primarily implemented or significantly customised by me:
+The following parts of the project are listed below who was done by AI and i make some changes to understand the logic and i also make many errors in the project by making changes in javascript validations and Api's and then sorted with the help of AI and understand how they working .
 
 - Form validation
 - CSV export functionality
