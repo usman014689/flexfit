@@ -4,7 +4,7 @@
 
 FlexFit is a gym membership management system developed using a Flask REST API with a MongoDB Database. The frontend is built with HTML, CSS and JavaScript, and communicates with the backend through JSON API requests.
 
-The application allows gym staff to manage member records by adding new members, updating existing information, deleting members and searching for records by name, email or phone number. All user input is validated before being stored in the database to help maintain accurate records.
+The application allows the gym owner to add the new member in their gym and add the name starting date and expiry date of membership and also show the persons whose membership is expiring soon upto 14 days.
 
 The dashboard provides a quick overview of the membership database, including the total number of members, active memberships and expired memberships. It also highlights memberships that will expire within the next 14 days, making it easier for staff to identify members who may need to renew their membership.
 
