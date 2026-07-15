@@ -63,7 +63,7 @@ Claude AI was used to help generate a project template and basic CRUD . These we
 i also stuck on mongodb connection i also get information and help from claude AI and by the help of youtube video i sorted this issue and it took 4 hours to resolve and now i am familiar with this i used the mongodb and python first time.
 ## Youtube video Link
 https://youtu.be/yyG7vYeapQg?si=Zw_aR03k3LWvECqP
-
+## Project Breakdown
 The following parts of the project are listed below who was done by AI and i make some changes to understand the logic and i also make many errors in the project by making changes in javascript validations and Api's and then sorted with the help of AI and understand how they working .
 
 - Form validation
