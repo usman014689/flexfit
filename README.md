@@ -2,7 +2,7 @@
 
 ## Overview
 
-FlexFit is a gym membership management system developed using a Flask REST API with a MongoDB database. The frontend is built with HTML, CSS and JavaScript, and communicates with the backend through JSON API requests.
+FlexFit is a gym membership management system developed using a Flask REST API with a MongoDB Database. The frontend is built with HTML, CSS and JavaScript, and communicates with the backend through JSON API requests.
 
 The application allows gym staff to manage member records by adding new members, updating existing information, deleting members and searching for records by name, email or phone number. All user input is validated before being stored in the database to help maintain accurate records.
 
