@@ -1,5 +1,9 @@
-# FlexFit Membership System
+# SELF INTRODUCTION:
+MOHAMMAD USMAN TAHIR  **ID** 20096896
+**COURSE** PROGRAMMING FOR INFORMATION SYSTEMS
+**LECTURER** PAUL LAIRD
 
+## FlexFit Membership System
 ## Overview
 
 FlexFit is a gym membership management system developed using a Flask REST API with a MongoDB Database. The frontend is built with HTML, CSS and JavaScript, and communicates with the backend through JSON API requests.
