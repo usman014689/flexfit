@@ -16,7 +16,6 @@ Additional features include:
 - Real-time dashboard statistics without refreshing the page.
 - REST API backend that returns JSON responses.
 
----
 
 ## Deployment
 
@@ -30,7 +29,6 @@ https://console.cloud.google.com/compute/instances?authuser=1&facet_url=https:%2
 
 http://136.66.121.44/
 
----
 
 ## References
 
@@ -57,8 +55,6 @@ https://chatgpt.com/c/6a549252-a6e4-83ee-9de0-3f24bb31d35f
 Development discussion:
 
 https://claude.ai/share/7ebda95d-13a5-4a4a-a421-daa0a51af476
-
----
 
 ## AI Usage
 
