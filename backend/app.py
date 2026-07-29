@@ -25,7 +25,7 @@ def is_valid_date(text):
     pattern = r"^\d{4}-\d{2}-\d{2}$"
     return re.match(pattern, text) is not None
 
-# [Modified by Me]: I wrote this one validation logic from chatgpt and then others are written by me to ensure
+# [Modified by Me]: I wrote this one validation logic from CLAUDE AI and then others are written by me to ensure
 # all data coming from the frontend is clean and meets gym policies
 # before saving to the database.
 def check_member_data(data):
