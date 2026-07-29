@@ -60,3 +60,8 @@ The following parts of the project are listed below who was done by AI and i mak
 - Dashboard aggregation, including upcoming membership expiry statistics
 - Frontend JavaScript for sorting and dynamically updating the interface
 - Testing and debugging
+
+**NOTE:**
+
+As a first-time user of GitHub, I experienced a steep learning curve during this course and initially made several mistakes with my repository management and commit history. To correct this and learn the proper workflow, I sought guidance from my classmate, Muhammad Usama Rafique.Muhammad taught me how to properly structure and write clear, meaningful commit messages whenever updates are made to the repository. I am actively practicing and applying these standard version-control habits as I continue to learn and improve my development skills.
+THANKS A LOT.
