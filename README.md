@@ -36,23 +36,13 @@ Took help from this resource for mongodb connection issue:
 
 https://stackoverflow.com/questions/18650890/keeping-open-a-mongodb-database-connection
 
-### ChatGPT
-
-API endpoint implementation:
-
-https://chatgpt.com/c/6a54934f-9d4c-83ee-aaad-01098504e231
-
-CSV export functionality and CORS configuration:
-
-https://chatgpt.com/c/6a549252-a6e4-83ee-9de0-3f24bb31d35f
-
 ### Claude AI
-
+HERE IS MY AI REFERENCE AND CHAT WITH CLAUDE AI WHICH I USED TO DEVELOPE THIS PROJECT.
 Development discussion:
 
 https://claude.ai/share/7ebda95d-13a5-4a4a-a421-daa0a51af476
 
-## AI Usage
+AI Usage
 
 Claude AI was used to help generate a project template and basic CRUD . These were then reviewed, modified and extended to meet the assignment requirements.
 i also stuck on mongodb connection i also get information and help from claude AI and by the help of youtube video i sorted this issue and it took 4 hours to resolve and now i am familiar with this i used the mongodb and python first time.
