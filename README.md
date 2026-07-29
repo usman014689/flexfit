@@ -13,7 +13,7 @@ Additional features include:
 - Real-time dashboard statistics without refreshing the page.
 - REST API backend that returns JSON responses.
 
-## Deployment
+**Deployment**
 
 This application is deployed on google cloud virtual machine and running live..
 
