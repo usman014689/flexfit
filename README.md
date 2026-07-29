@@ -30,9 +30,9 @@ http://136.66.121.44/
 
 The following resources were used during development of the project.
 
-### Stack Overflow
+**Stack Overflow**
 
-MongoDB connection management:
+Took help from this resource for mongodb connection issue:
 
 https://stackoverflow.com/questions/18650890/keeping-open-a-mongodb-database-connection
 
