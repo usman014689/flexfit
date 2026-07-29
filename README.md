@@ -38,6 +38,7 @@ https://stackoverflow.com/questions/18650890/keeping-open-a-mongodb-database-con
 
 ### Claude AI
 HERE IS MY AI REFERENCE AND CHAT WITH CLAUDE AI WHICH I USED TO DEVELOPE THIS PROJECT.
+
 Development discussion:
 
 https://claude.ai/share/7ebda95d-13a5-4a4a-a421-daa0a51af476
