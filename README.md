@@ -38,6 +38,18 @@ https://stackoverflow.com/questions/18650890/keeping-open-a-mongodb-database-con
 
 **CSV export functionality help reference:**
 
+**Chat Gpt**
+
+Api Endoint in python
+
+https://chatgpt.com/share/6a69ad77-ec9c-83ee-9340-0807f30ac605
+
+CSV EXPORT FUNCTIONALITY
+
+https://chatgpt.com/share/6a69ad87-607c-83ee-a83d-df25efb6fb72
+
+**YOUTUBE LINK**
+
 https://youtu.be/xwyYfX76uLM?si=I0xiIGSt8_nwSkcI
 
 **Claude AI**
