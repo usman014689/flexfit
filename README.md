@@ -36,7 +36,11 @@ Took help from this resource for mongodb connection issue:
 
 https://stackoverflow.com/questions/18650890/keeping-open-a-mongodb-database-connection
 
-### Claude AI
+**CSV export functionality help reference:**
+
+https://youtu.be/xwyYfX76uLM?si=I0xiIGSt8_nwSkcI
+
+**Claude AI**
 HERE IS MY AI REFERENCE AND CHAT WITH CLAUDE AI WHICH I USED TO DEVELOPE THIS PROJECT.
 
 Development discussion:
